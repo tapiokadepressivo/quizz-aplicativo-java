@@ -1,4 +1,9 @@
 /* importing google fonts */
 @import url('https://fonts.googlesapis.com/css2?family=Poppins:wgth@200;300;400;500;600;700&display=swap');
 *{
+  margin: 0;
+  paddind: 0;
+  box-sizing: 0;
+  font-family: 'Poppins', sans-serif;
+}
 
