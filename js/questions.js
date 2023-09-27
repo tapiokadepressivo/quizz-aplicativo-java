@@ -2,4 +2,7 @@
 let questions = [
   {
     numb: 1,
-    question: " Quem foi a unica pessoa a receber o Premio Nobel em áreas diferentes?",
+    question: "Quem foi a unica pessoa a receber o Premio Nobel em áreas diferentes?",
+    answer: "Marie Curiee",
+    option: 
+      
