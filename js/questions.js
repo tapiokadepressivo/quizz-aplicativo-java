@@ -2,12 +2,12 @@
 let questions = [
   {
     numb: 1,
-    question: "qual foi o clube que ganhou o mundial em 2012 ?",
-    answer: "Corinthians",
+    question: "qual foi o clube brasileiro que mais ganhou mundiais?",
+    answer: "São Paulo",
     options: [
       "Corinthians",
-      "Palmeiras",
-      "Chealse",
+      "Flamengo",
+      "São Paulo",
       "Santos"
     ]
   },
