@@ -24,8 +24,8 @@ let questions = [
   },
   {
     numb: 3,
-    question: "Quem foi o melhor zagueiro do Brasil de todos os tempos??",
-    answer: "Aldair Santos do Nascimento",
+    question: "Quem foi o melhor técnico brasileiro de todos os tempos?",
+    answer: "Têle Santana",
     options: [
       "NINO",
       "Edson Arantes do Nascimento",
