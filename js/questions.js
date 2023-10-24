@@ -13,8 +13,8 @@ let questions = [
   },
   {
     numb: 2,
-    question: "Quantos Mundiais tem o Corinthans ?",
-    answer: "2",
+    question: "Quantos Mundiais tem o São Paulo ?",
+    answer: "3",
     options: [
       "3",
       "2",
