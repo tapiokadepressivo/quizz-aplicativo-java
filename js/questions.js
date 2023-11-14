@@ -46,13 +46,13 @@ let questions = [
   },
   {
     numb: 5,
-    question: "quantos gols tem roger guedes pelo corinthians?",
-    answer: "43",
+    question: "quantos gols tem o Calleri pelo São Paulo?",
+    answer: "62",
     options: [
-      "43",
-      "25",
+      "58",
+      "62",
       "33",
-      "13"
+      "44"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
