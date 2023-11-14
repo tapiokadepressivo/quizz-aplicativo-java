@@ -36,7 +36,7 @@ let questions = [
   {
     numb: 4,
     question: "Qual é o Maior idolo do São Paulo?",
-    answer: "Rogerio Cenni",
+    answer: "Rogerio Ceni",
     options: [
       "Rogerio Ceni",
       "Kaká",
