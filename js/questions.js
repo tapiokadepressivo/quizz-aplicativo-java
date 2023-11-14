@@ -35,13 +35,13 @@ let questions = [
   },
   {
     numb: 4,
-    question: "Quantos Paulistas tem o Corinthians?",
-    answer: "30",
+    question: "Qual é o Maior idolo do São Paulo?",
+    answer: "Rogerio Cenni",
     options: [
-      "12",
-      "21",
-      "30",
-      "33"
+      "Rogerio Ceni",
+      "Kaká",
+      "Muller",
+      "Lugano"
     ]
   },
   {
