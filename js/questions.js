@@ -27,10 +27,10 @@ let questions = [
     question: "Quem foi o melhor técnico brasileiro de todos os tempos?",
     answer: "Têle Santana",
     options: [
-      "NINO",
-      "Edson Arantes do Nascimento",
-      "Aldair Santos do Nascimento",
-      "Gustavo Gómez"
+      "Ribamar",
+      "Rodrigo Nestor",
+      "Yuri Alberto",
+      "Têle Santana"
     ]
   },
   {
